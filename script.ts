@@ -1,9 +1,11 @@
 // number
 let num: number = 1;
 // string
-let str: string;
+let str: string = "amer";
 // boolean
 let isComplete: boolean = false;
+
+console.log(num, str, isComplete);
 
 // ES6 Function && reset operator
 const add = (a:number, b:number, ...param:number[]): number => {

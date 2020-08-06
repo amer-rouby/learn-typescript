@@ -22,9 +22,10 @@ var __spreadArrays = (this && this.__spreadArrays) || function () {
 // number
 var num = 1;
 // string
-var str;
+var str = "amer";
 // boolean
 var isComplete = false;
+console.log(num, str, isComplete);
 // ES6 Function && reset operator
 var add = function (a, b) {
     var param = [];
